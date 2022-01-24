@@ -11,4 +11,4 @@ aprendendo MUITO sobre redes, que são os fundamentos para a segurança da infor
 de estudos. Recebi um livro do técnicas de invasão como presente e estou adorando le-lo.  Além disso, por gostar muito de automação, estou estudando python e
 bibliotecas de automação como o pyautogui e estou amando conhecer tudo isso.
  Tudo que estudo vejo em documentações ou cursos no youtube de forma 100% gratuita. Também estou pegando vários projetos de programação de eventos em anúncios do
-youtube para que eu não fique só na teoria e adiquira prática.
+youtube para que eu não fique só na teoria e adquira prática.
