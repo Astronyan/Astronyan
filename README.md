@@ -4,9 +4,9 @@ Hi 👋 My name is João Pedro
 Full Stack Web Developer
 -----------------------------
 
-I'm a 17 years old, developing since I was 13. I love to code and create my own solutions and invent technology for myself. My main focus are back-end development and I have fallen in love for automation, creating things that will help people around the world and change lives for better.
+I'm a 18 years old, developing since I was 13. I love to code and create my own solutions and invent technology for myself. My main focus are back-end development and I have fallen in love for automation, creating things that will help people around the world and change lives for better.
 
-* 🌍  I live in Curitiba, Brazil
+* 🌍  I live in Pouso Alegre, Brazil
 * ✉️  You can contact me at [joaopedro@sobremail.com](mailto:joaopedro@sobremail.com)
 * 🚀  I'm currently freelancing for companies as a discord bot Developer, but I'm searching for a job front-end, back-end or fullstack
 * 🧠  I'm learning C for arduino, electron (making plugin for discord) and intend to learn machine learning with tensorflow and Rust
