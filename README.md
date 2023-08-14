@@ -64,6 +64,4 @@ src="https://img.shields.io/github/followers/ppkat?logo=github&style=for-the-bad
 
 ### Badges
 
-![ppkat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppkat&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppkat&theme=tokyonight)
