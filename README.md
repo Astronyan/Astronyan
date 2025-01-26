@@ -12,8 +12,8 @@ I'm a 18 years old, developing since I was 13. I love to code and create my own 
 * 🧠  I'm learning C for arduino, electron (making plugin for discord) and intend to learn machine learning with tensorflow and Rust
 * 🤝  I'm open to collaborating on projects that have a high positive impact in peoples lives
 
-<a href="https://www.github.com/ppkat" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ppkat?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+<a href="https://www.github.com/Astronyan" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Astronyan?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ## Skills
 
@@ -64,4 +64,4 @@ src="https://img.shields.io/github/followers/ppkat?logo=github&style=for-the-bad
 
 ### Badges
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppkat&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astronyan&theme=tokyonight)
