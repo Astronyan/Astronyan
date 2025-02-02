@@ -4,7 +4,7 @@ Hi 👋 My name is João Pedro
 Full Stack Web Developer
 -----------------------------
 
-I'm a 18 years old, developing since I was 13. I love to code and create my own solutions and invent technology for myself. My main focus are back-end development and I have fallen in love for automation, creating things that will help people around the world and change lives for better.
+I'm a 19 years old, developing since I was 13. I love to code and create my own solutions and invent technology for myself. My main focus are back-end development and I have fallen in love for automation, creating things that will help people around the world and change lives for better.
 
 * 🌍  I live in Pouso Alegre, Brazil
 * ✉️  You can contact me at [joaopedro@sobremail.com](mailto:joaopedro@sobremail.com)
